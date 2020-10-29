@@ -1,1 +1,3 @@
 zmiana w pliku
+
+dodanie nowej, funkcionalnosci.
